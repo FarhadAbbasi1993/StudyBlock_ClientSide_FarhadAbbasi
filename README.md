@@ -1,1 +1,2 @@
-# StudyBlock_ClientSide_FarhadAbbasi
+# FarhadAbbasi
+Internet Technalogies client side Study Block Project
